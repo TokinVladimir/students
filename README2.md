@@ -1,3 +1,3 @@
 # students
 Student registration
-add readme2
+edit readme2
